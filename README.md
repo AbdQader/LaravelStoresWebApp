@@ -16,12 +16,27 @@ https://user-images.githubusercontent.com/64075836/181222393-4fd63b92-6283-4a95-
 
 This project contains the following features:
 
-- Browse the all the stores.
-- Search for store.
-- Add article to favorite.
-- Remove article from favorite.
-- Open article in browser.
-- Toggle app theme to dark theme.
+- **Admin Panel Features:**
+  Markup : 1. *Categories Management*
+     - Add New Category: adding new category with its name and image.
+     - Edit Category: editing a specific category.
+     - Delete Category: deleting a specific category.
+  2. *Stores Management*
+     - Add New Store: adding new store with its name, address, phone, and image.
+     - Edit Store: editing a specific store.
+     - Delete Store: deleting a specific store.
+  3. *Stores Ratings*
+     - view stores' final ratings, as a table view the store name, logo, final rating, and number of reviews.
+  4. *Stores Search*
+     - searching on stores by name.
+
+- **Public Website Features:**
+  - Discovering the categories in the home page of the website.
+  - Selecting a specific category and discover its stores.
+  - Clicking on a specific store from category stores and see the store details.
+  - Rating any store one time only for every user.
+  - Editing the user rating on a specific store.
+  - Searching on stores by name.
 
 ---
 
