@@ -1,3 +1,30 @@
+# Laravel Stores Website
+
+🚀 A Laravel project website to View, Add, Edit, and Remove Stores.
+
+
+https://user-images.githubusercontent.com/64075836/181222393-4fd63b92-6283-4a95-8a98-5086417d8ee0.mp4
+
+
+---
+
+## Overview
+
+---
+
+## Features
+
+This project contains the following features:
+
+- Browse the all the stores.
+- Search for store.
+- Add article to favorite.
+- Remove article from favorite.
+- Open article in browser.
+- Toggle app theme to dark theme.
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
