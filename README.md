@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/64075836/181222393-4fd63b92-6283-4a95-
 ---
 
 ## Overview
+It's a stores website, and this project contains two users/parts, an admin panel that manages the categories & stores (view, insert, edit, delete category/store), and the other user/part is the public website that discovers the categories & stores and allows to the user rate the stores and search for a specific store...etc.
 
 ---
 
@@ -17,17 +18,17 @@ https://user-images.githubusercontent.com/64075836/181222393-4fd63b92-6283-4a95-
 This project contains the following features:
 
 - **Admin Panel Features:**
-  Markup : 1. *Categories Management*
+  - *Categories Management*
      - Add New Category: adding new category with its name and image.
      - Edit Category: editing a specific category.
      - Delete Category: deleting a specific category.
-  2. *Stores Management*
+  - *Stores Management*
      - Add New Store: adding new store with its name, address, phone, and image.
      - Edit Store: editing a specific store.
      - Delete Store: deleting a specific store.
-  3. *Stores Ratings*
+  - *Stores Ratings*
      - view stores' final ratings, as a table view the store name, logo, final rating, and number of reviews.
-  4. *Stores Search*
+  - *Stores Search*
      - searching on stores by name.
 
 - **Public Website Features:**
@@ -37,6 +38,16 @@ This project contains the following features:
   - Rating any store one time only for every user.
   - Editing the user rating on a specific store.
   - Searching on stores by name.
+
+---
+
+## Technologies
+
+This project was developed with the following technologies:
+
+- [Laravel](https://laravel.com) - As a platform of development.
+- [PHP](https://www.php.net) - As a programming language for laravel development.
+- [MySQL](https://www.mysql.com) - As a database management system.
 
 ---
 
